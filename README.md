@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Limsohee&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=D68B92&height=300&section=header&text=Limsohee&fontSize=90" />
 ## ⌨️Programming Languages⌨️ 
 <div align=center> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -59,7 +59,7 @@
 
 
 <div align=center> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Limsoheeee&theme=merko&bg_color==25,fff,E7F5DF">
+  <img src="https://github-readme-stats.vercel.app/api?username=Limsoheeee&theme=merko&bg_color==25,fff,D68B92">
   <br>
   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limsoheeee">
