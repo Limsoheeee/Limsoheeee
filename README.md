@@ -48,7 +48,7 @@
 <div align=center>
     <a href="[https:https://limsohee-limsoheeee.vercel.app/" target="_blank">
 <!--     <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logoColor=white"/> -->
-     <img src= https://img.shields.io/badge/%27WEB%20SITE%20for%27%20fportfolio-20B2AA?style=for-the-badge/>
+     <img src= https://img.shields.io/badge/WEB%20SITE%20%20portfolio-20B2AA?style=for-the-badge/>
   </a>
 </div> 
 
