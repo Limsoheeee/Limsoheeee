@@ -46,8 +46,9 @@
 
 ## 📒What I learned📒
 <div align=center>
-    <a href="https://ssocode.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logoColor=white"/>
+    <a href="[https:https://limsohee-limsoheeee.vercel.app/" target="_blank">
+<!--     <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logoColor=white"/> -->
+     <img src= https://img.shields.io/badge/%27WEB%20SITE%20for%27%20fportfolio-20B2AA?style=for-the-badge/>
   </a>
 </div> 
 
