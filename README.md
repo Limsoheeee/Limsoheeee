@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D68B92&height=300&section=header&text=Welcome!&fontSize=70&desc=Sohee's%20GitHub&descAlign=60&descAlignY=65&animation=fadeIn" />
 ## ⌨️Programming Languages⌨️ 
 <div align=center> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
 <br>
